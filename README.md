@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [umernisar.netlify.app/](umernisar.netlify.app/)
 
-- 💬 Ask me about **react , node , golang , java , sql**
+- 💬 Ask me about **react , node , golang , java , nosql , sql**
 
 - 📫 How to reach me **umernsiar3854@gmail.com**
 
