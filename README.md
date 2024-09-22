@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **umernsiar3854@gmail.com**
 
-- ⚡ Fun fact **Talks in binary (introverted)**
+- ⚡ Fun fact **😴🛌💭💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
