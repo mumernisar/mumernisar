@@ -5,7 +5,7 @@
   <a href="https://mumernisar.dev/"><b>Portfolio</b></a> •
   <a href="https://linkedin.com/in/m-umer-nisar"><b>LinkedIn</b></a> •
   <a href="mailto:dev.umernisar@gmail.com"><b>Email</b></a>
-  <a href="https://www.upwork.com/freelancers/~018c89fdfbb72ceafb"><b>Upwork</b></a> •
+  <a href="https://www.upwork.com/freelancers/~018c89fdfbb72ceafb"><b>Upwork</b></a>
 </p>
 
 ---
