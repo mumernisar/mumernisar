@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
+<h1 align="center">Hi 👋, I'm Umer</h1>
 <h3 align="center">Full Stack Backend Engineer | Agentic AI & Web3 Specialist</h3>
 
 <p align="center">
